@@ -6,7 +6,7 @@ At this time, I am engaged in enhancing my programming competency while acquirin
 
 💻 Tech Stack:
 
-Python R CSS3  SQLite MicrosoftSQLServer NumPy Pandas Plotly scikit-learn SciPy
+Python R CSS3  SQLite Cognos Analytics MicrosoftSQLServer NumPy Pandas Plotly scikit-learn SciPy
 
 
 <!---
